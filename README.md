@@ -1,4 +1,4 @@
-sparrow_sast 진단 산출물
+Sparrow_sast 진단도구 산출물
 =========================
 
 # 1. 대시보드 (DashBoard)
